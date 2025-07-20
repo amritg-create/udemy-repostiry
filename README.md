@@ -1,2 +1,2 @@
-# udemy-repostiry
-This is a second example. 
+# My very first repository. 
+Kalob is an awesome teacher. 
